@@ -4,6 +4,12 @@
 
 [build.environment]
   NEXT_PUBLIC_BASE_PATH = ""
+  NEXT_TELEMETRY_DISABLED = "1"
+  NODE_VERSION = "18"
 
 [[plugins]]
-  package = "@netlify/plugin-nextjs" 
+  package = "@netlify/plugin-nextjs"
+
+[[plugins.inputs]]
+  package = "@netlify/plugin-nextjs"
+  buildCache = true 
