@@ -44,8 +44,9 @@ const WineEvaluationDashboard = () => {
     setIsAnalyzing(true);
     console.log('Fetching evaluation data...');
     
-    // Use the new evaluation file
-    fetch(`/data/evaluation_new.json?t=${new Date().getTime()}`)
+    // Use the basePath for data fetching
+    const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
+    fetch(`${basePath}/data/evaluation_new.json?t=${new Date().getTime()}`)
       .then(response => {
         console.log('Response status:', response.status);
         return response.json();
