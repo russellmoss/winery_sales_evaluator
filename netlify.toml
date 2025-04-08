@@ -10,6 +10,5 @@
 [[plugins]]
   package = "@netlify/plugin-nextjs"
 
-[[plugins.inputs]]
-  package = "@netlify/plugin-nextjs"
+[plugins.inputs]
   buildCache = true 
