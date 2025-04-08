@@ -8,7 +8,4 @@
   NODE_VERSION = "18"
 
 [[plugins]]
-  package = "@netlify/plugin-nextjs"
-
-[plugins.inputs]
-  buildCache = true 
+  package = "@netlify/plugin-nextjs" 
