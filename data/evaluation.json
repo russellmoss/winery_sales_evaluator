@@ -1,0 +1,93 @@
+{
+  "staffName": "Russell",
+  "date": "2025-04-07",
+  "overallScore": 76,
+  "performanceLevel": "Proficient",
+  "criteriaScores": [
+    {
+      "criterion": "Initial Greeting and Welcome",
+      "weight": 8,
+      "score": 2,
+      "weightedScore": 16,
+      "notes": "Russell's greeting was basic with minimal warmth: 'hi my name is Russell and I'm going to be taking care of you today is this your first time at Malaya.' He did not create excitement or make guests feel especially valued upon arrival."
+    },
+    {
+      "criterion": "Building Rapport",
+      "weight": 10,
+      "score": 3,
+      "weightedScore": 30,
+      "notes": "Russell asked where guests were from, but this occurred late in the interaction (message 15). He made some connections between their location and wine club benefits but missed opportunities for more personal conversation or meaningful follow-up questions earlier in the exchange."
+    },
+    {
+      "criterion": "Winery History and Ethos",
+      "weight": 10,
+      "score": 3,
+      "weightedScore": 30,
+      "notes": "Russell briefly mentioned the winemaking philosophy ('we truly believe that great wine is made in the vineyard') and explained minimal intervention practices, but didn't share much about Milea's founding story or deeper values beyond a brief reference to the menu containing history."
+    },
+    {
+      "criterion": "Storytelling and Analogies",
+      "weight": 10,
+      "score": 3,
+      "weightedScore": 30,
+      "notes": "Russell used some effective analogies like 'tasting the sunlight, the soil, the location' and provided background on collections like Right Bank/Left Bank. However, he could have developed more vivid stories around each wine or used more creative analogies to make wines memorable."
+    },
+    {
+      "criterion": "Recognition of Buying Signals",
+      "weight": 12,
+      "score": 4,
+      "weightedScore": 48,
+      "notes": "Russell recognized enthusiasm about wines and proactively held bottles aside. He effectively transitioned to wine club discussion when guests showed interest in wines and mentioned they were from NYC, making the geographical connection. He also noticed their interest in all the wines and suggested a case."
+    },
+    {
+      "criterion": "Customer Data Capture",
+      "weight": 8,
+      "score": 4,
+      "weightedScore": 32,
+      "notes": "Russell successfully captured customer information through the wine club signup process, explaining the benefits of having their information on file. He also mentioned the QR code for giveaway entry early in the conversation, providing another data capture opportunity."
+    },
+    {
+      "criterion": "Asking for the Sale",
+      "weight": 12,
+      "score": 5,
+      "weightedScore": 60,
+      "notes": "Russell made multiple direct asks for sales throughout the conversation. He explicitly asked 'would you like to sign up for the club today?' and later suggested a full case purchase with clear incentives (20% discount vs. 15%, 5,000 rewards points). His closing techniques were confident and effective."
+    },
+    {
+      "criterion": "Personalized Wine Recommendations",
+      "weight": 10,
+      "score": 3,
+      "weightedScore": 30,
+      "notes": "Russell made some food pairing recommendations (brussels sprouts with Vidal Blanc, arancini across the flight) but didn't strongly customize wine recommendations based on guests' specific preferences or feedback. When suggesting the case purchase, he proposed equal quantities of each wine rather than adjusting based on their reactions."
+    },
+    {
+      "criterion": "Wine Club Presentation",
+      "weight": 12,
+      "score": 5,
+      "weightedScore": 60,
+      "notes": "Russell gave an excellent wine club presentation with clear explanation of all tiers (Jumper, Grand Prix, Triple Crown), specific benefits (discounts, free tastings, rewards points, events), and addressed questions about frequency. He highlighted that they could take their first shipment that day and explained the commitment clearly."
+    },
+    {
+      "criterion": "Closing Interaction",
+      "weight": 8,
+      "score": 4,
+      "weightedScore": 32,
+      "notes": "Russell provided a warm conclusion, thanking guests for their support, mentioning Manuel would help with their purchase, and expressing enthusiasm about seeing them at future events. His closing was genuine and reinforced the new relationship with the winery."
+    }
+  ],
+  "strengths": [
+    "Excellent wine club presentation with comprehensive explanation of tiers, benefits, and participation requirements",
+    "Strong direct sales approach with multiple effective asks for purchases and clear incentives",
+    "Good follow-through on sales opportunities, including holding bottles aside and suggesting larger purchases"
+  ],
+  "areasForImprovement": [
+    "Warmer, more enthusiastic initial greeting to make guests feel specially welcomed",
+    "Earlier and more meaningful rapport building with personal questions and follow-up",
+    "More compelling storytelling around winery history and specific narrative elements for each wine"
+  ],
+  "keyRecommendations": [
+    "Develop a more engaging welcome script that creates excitement and makes guests feel valued from the first moment",
+    "Establish a personal connection earlier in the interaction by asking about guests' wine interests or occasion before diving into menus and tastings",
+    "Create 2-3 memorable stories about the winery's history and each flagship wine that evoke emotion and make the experience more distinctive"
+  ]
+}
